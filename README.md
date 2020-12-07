@@ -1,2 +1,10 @@
 # send-text-message
-Send an email to gmail and forward to smart phone as a text message
+From a Raspberry Pi, send an email to gmail using ssmtp, and then forward the email to one or more smart phones as a text message.
+
+This is used where a Raspberry Pi should send an alert of a condition thta needs immediate attention.
+
+Sending alerts is usually part of a larger project.
+
+The basic idea is described in more detail here:
+
+https://sites.google.com/site/cartwrightraspberrypiprojects/home/steps/send-text-message
